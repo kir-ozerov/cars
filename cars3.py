@@ -2,7 +2,7 @@ cars_mas = [["А123БВ", "Toyota", "Spacio", "Серебристый"], ["Г456
                                                                                                       "Москвич", "412",
                                                                                                       "Оранжевый"]]
 
-
+#gjhgjhgasd
 class Cars:
     number, brand, model, color = "", "", "", ""
 
