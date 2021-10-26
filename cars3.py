@@ -100,3 +100,4 @@ while True:
             print("Нет такой машины")
     else:
         print("Такой команды нет")
+        #fufufuf
