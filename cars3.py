@@ -1,7 +1,7 @@
 cars_mas = [["А123БВ", "Toyota", "Spacio", "Серебристый"], ["Г456ДЕ", "Toyota", "MarkII", "Чёрный"], ["Ё789ЖЗ",
                                                                                                       "Москвич", "412",
                                                                                                       "Оранжевый"]]
-
+#Комментарий
 class Cars:
     number, brand, model, color = "", "", "", ""
 
