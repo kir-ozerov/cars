@@ -87,6 +87,7 @@ while True:
             search(search_by)
     elif command == "Вывести" or command == "вывести":
         print_cars()
+        print("Какая-то херня")
     elif command == "Изменить" or command == "изменить":
         car_id = int(input("Введите id машины: "))
         if car_id < len(cars_mas):
